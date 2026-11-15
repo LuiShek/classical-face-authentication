@@ -7,6 +7,6 @@ opencv-contrib-python==5.0.0.93
 numpy>=2.0,<3
 scikit-learn>=1.5
 scipy>=1.13
-matplotlib>=3.9
+matplotlib>=3.10.9
 pillow>=10
 pytest>=8
