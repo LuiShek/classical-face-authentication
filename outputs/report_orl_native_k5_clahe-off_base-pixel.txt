@@ -1,0 +1,11 @@
+dataset=orl
+variant=native
+k_enroll=5
+clahe=off
+method=pixel
+EER=8.590%
+EER_CI_LOW=6.923%
+EER_CI_HIGH=10.660%
+TAR_at_FAR1=73.500%
+targets=200
+impostors=7800

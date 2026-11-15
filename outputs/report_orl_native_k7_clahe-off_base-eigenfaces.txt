@@ -1,0 +1,11 @@
+dataset=orl
+variant=native
+k_enroll=7
+clahe=off
+method=eigenfaces
+EER=5.833%
+EER_CI_LOW=3.619%
+EER_CI_HIGH=7.440%
+TAR_at_FAR1=81.667%
+targets=120
+impostors=4680

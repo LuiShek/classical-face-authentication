@@ -1,0 +1,11 @@
+dataset=orl
+variant=native
+k_enroll=7
+clahe=off
+method=hog
+EER=12.329%
+EER_CI_LOW=9.430%
+EER_CI_HIGH=14.627%
+TAR_at_FAR1=73.333%
+targets=120
+impostors=4680

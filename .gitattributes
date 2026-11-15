@@ -1,0 +1,8 @@
+* text=auto
+
+*.onnx binary
+*.npz binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pgm binary

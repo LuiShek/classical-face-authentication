@@ -1,0 +1,11 @@
+dataset=lfw
+variant=aligned
+k_enroll=10
+clahe=off
+method=eigenfaces
+EER=32.626%
+EER_CI_LOW=29.137%
+EER_CI_HIGH=34.685%
+TAR_at_FAR1=8.531%
+targets=2403
+impostors=20000

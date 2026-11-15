@@ -1,0 +1,12 @@
+# Pinned for reproducibility. OpenCV 5.0.0.93 is the version verified on this
+# machine: it still exposes cv2.face.LBPHFaceRecognizer_create.
+#
+# NOTE: no Windows ARM64 wheels exist for OpenCV, so this project runs on an
+# x64 CPython (emulated on Windows-on-ARM). See docs/methodology.md.
+opencv-contrib-python==5.0.0.93
+numpy>=2.0,<3
+scikit-learn>=1.5
+scipy>=1.13
+matplotlib>=3.9
+pillow>=10
+pytest>=8

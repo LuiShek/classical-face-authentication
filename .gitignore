@@ -1,0 +1,30 @@
+# Environment
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Datasets are large and belong outside OneDrive
+data/
+
+# Enrolled face models are biometric data: never commit them
+models/faces/
+faces/
+cohort/
+*.dpapi
+crops.npz
+model.yml
+auth-state.json*
+
+# Captures from the live CLI
+captures/
+
+.DS_Store
+Thumbs.db

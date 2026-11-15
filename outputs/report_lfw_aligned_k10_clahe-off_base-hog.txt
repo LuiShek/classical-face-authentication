@@ -1,0 +1,11 @@
+dataset=lfw
+variant=aligned
+k_enroll=10
+clahe=off
+method=hog
+EER=32.127%
+EER_CI_LOW=30.533%
+EER_CI_HIGH=33.542%
+TAR_at_FAR1=17.978%
+targets=2403
+impostors=20000
