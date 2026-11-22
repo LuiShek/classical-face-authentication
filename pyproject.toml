@@ -35,7 +35,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 dependencies = [
-    "opencv-contrib-python==5.0.0.93",
+    "opencv-contrib-python==5.1.0.95",
     "numpy>=2.0",
     "scikit-learn>=1.5",
 ]
